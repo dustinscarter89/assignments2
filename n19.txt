@@ -1,0 +1,95 @@
+warning: basinhopping: local minimization failure
+basinhopping step 0: f -64.1604
+warning: basinhopping: local minimization failure
+basinhopping step 1: f -64.1604 trial_f -62.645 accepted 0  lowest_f -64.1604
+warning: basinhopping: local minimization failure
+basinhopping step 2: f -64.1604 trial_f -55.8615 accepted 0  lowest_f -64.1604
+warning: basinhopping: local minimization failure
+basinhopping step 3: f -64.1604 trial_f -63.034 accepted 0  lowest_f -64.1604
+warning: basinhopping: local minimization failure
+basinhopping step 4: f -64.1604 trial_f -63.1411 accepted 0  lowest_f -64.1604
+warning: basinhopping: local minimization failure
+basinhopping step 5: f -64.1604 trial_f -59.8129 accepted 0  lowest_f -64.1604
+warning: basinhopping: local minimization failure
+basinhopping step 6: f -64.1604 trial_f -55.2651 accepted 0  lowest_f -64.1604
+warning: basinhopping: local minimization failure
+basinhopping step 7: f -63.3051 trial_f -63.3051 accepted 1  lowest_f -64.1604
+warning: basinhopping: local minimization failure
+basinhopping step 8: f -63.3051 trial_f -53.9154 accepted 0  lowest_f -64.1604
+warning: basinhopping: local minimization failure
+basinhopping step 9: f -63.3051 trial_f -62.4767 accepted 0  lowest_f -64.1604
+warning: basinhopping: local minimization failure
+basinhopping step 10: f -64.8538 trial_f -64.8538 accepted 1  lowest_f -64.8538
+found new global minimum on step 10 with function value -64.8538
+basinhopping step 11: f -64.8538 trial_f -60.7574 accepted 0  lowest_f -64.8538
+warning: basinhopping: local minimization failure
+basinhopping step 12: f -64.8538 trial_f -59.4946 accepted 0  lowest_f -64.8538
+basinhopping step 13: f -63.8436 trial_f -63.8436 accepted 1  lowest_f -64.8538
+warning: basinhopping: local minimization failure
+basinhopping step 14: f -63.8436 trial_f -56.3678 accepted 0  lowest_f -64.8538
+basinhopping step 15: f -64.8615 trial_f -64.8615 accepted 1  lowest_f -64.8615
+found new global minimum on step 15 with function value -64.8615
+warning: basinhopping: local minimization failure
+basinhopping step 16: f -64.8615 trial_f -64.3218 accepted 0  lowest_f -64.8615
+warning: basinhopping: local minimization failure
+basinhopping step 17: f -61.4883 trial_f -61.4883 accepted 1  lowest_f -64.8615
+warning: basinhopping: local minimization failure
+basinhopping step 18: f -60.7039 trial_f -60.7039 accepted 1  lowest_f -64.8615
+warning: basinhopping: local minimization failure
+basinhopping step 19: f -60.7039 trial_f -40.8908 accepted 0  lowest_f -64.8615
+warning: basinhopping: local minimization failure
+basinhopping step 20: f -60.4291 trial_f -60.4291 accepted 1  lowest_f -64.8615
+warning: basinhopping: local minimization failure
+basinhopping step 21: f -62.9069 trial_f -62.9069 accepted 1  lowest_f -64.8615
+warning: basinhopping: local minimization failure
+basinhopping step 22: f -62.9069 trial_f -58.6504 accepted 0  lowest_f -64.8615
+basinhopping step 23: f -62.9069 trial_f -59.4773 accepted 0  lowest_f -64.8615
+basinhopping step 24: f -60.6056 trial_f -60.6056 accepted 1  lowest_f -64.8615
+basinhopping step 25: f -62.2514 trial_f -62.2514 accepted 1  lowest_f -64.8615
+basinhopping step 26: f -64.2369 trial_f -64.2369 accepted 1  lowest_f -64.8615
+warning: basinhopping: local minimization failure
+basinhopping step 27: f -65.7867 trial_f -65.7867 accepted 1  lowest_f -65.7867
+found new global minimum on step 27 with function value -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 28: f -65.7867 trial_f -58.2374 accepted 0  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 29: f -64.9601 trial_f -64.9601 accepted 1  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 30: f -64.9601 trial_f -63.8688 accepted 0  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 31: f -64.9601 trial_f -60.7422 accepted 0  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 32: f -64.9601 trial_f -55.7131 accepted 0  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 33: f -64.9601 trial_f -63.8388 accepted 0  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 34: f -64.9601 trial_f -62.4725 accepted 0  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 35: f -64.9601 trial_f -57.5616 accepted 0  lowest_f -65.7867
+basinhopping step 36: f -64.9601 trial_f -57.8355 accepted 0  lowest_f -65.7867
+basinhopping step 37: f -64.9601 trial_f -63.4161 accepted 0  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 38: f -64.9601 trial_f -59.8604 accepted 0  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 39: f -64.9601 trial_f -61.3277 accepted 0  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 40: f -64.9601 trial_f -59.2406 accepted 0  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 41: f -64.9601 trial_f -60.8266 accepted 0  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 42: f -64.9601 trial_f -57.6669 accepted 0  lowest_f -65.7867
+basinhopping step 43: f -64.9601 trial_f -52.924 accepted 0  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 44: f -64.9601 trial_f -60.6828 accepted 0  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 45: f -64.9601 trial_f -59.4374 accepted 0  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 46: f -62.7121 trial_f -62.7121 accepted 1  lowest_f -65.7867
+basinhopping step 47: f -62.7121 trial_f -57.8947 accepted 0  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 48: f -64.8738 trial_f -64.8738 accepted 1  lowest_f -65.7867
+warning: basinhopping: local minimization failure
+basinhopping step 49: f -64.8738 trial_f -56.2206 accepted 0  lowest_f -65.7867
+adaptive stepsize: acceptance rate 0.300000 target 0.500000 new stepsize 2.7 old stepsize 3
+warning: basinhopping: local minimization failure
+basinhopping step 50: f -59.5519 trial_f -59.5519 accepted 1  lowest_f -65.7867
